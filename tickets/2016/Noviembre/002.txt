@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		002
+Fecha;		10/11/2016
+Concepto:	Soporte al área de paquetes.
+Problema:	La macro dejó de funcionar en la computadora de Alberto.		
+Solución:	Restauración de la macro de mensajería en la computadora de Alberto.

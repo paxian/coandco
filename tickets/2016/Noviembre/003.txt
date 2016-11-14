@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		003
+Fecha;		10/11/2016
+Concepto:	Soporte al área de paquetes.
+Problema:	El iPad de la contadora Rocha borra los eventos del calendario en meses pasados.
+Solución:	Ajuste de las configuraciones.

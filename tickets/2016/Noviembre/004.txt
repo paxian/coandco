@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		004
+Fecha;		06/11/2016
+Concepto:	Soporte al área directiva.
+Problema:	El desempeño del iMac del contador Guevara es lento.
+Solución:	Movmiento de archivos pesados para mejorar el rendimiento.

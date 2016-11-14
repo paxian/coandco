@@ -1,0 +1,8 @@
+[Ticket]
+
+Numero:		001
+Fecha;		10/11/2016
+Concepto:	Soporte al área de paquetes.
+Descripción:	Mantenimiento correctivo a la computadora de Alberto.
+Problema:	El rendimiento de la PC era muy lento.
+Solución:	Mantenimeinto correctivo a nivel software.

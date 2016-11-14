@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		005
+Fecha;		07/11/2016
+Concepto:	Soporte al área directiva.
+Problema:	Actualización del SO del iMac del contador Guevara desconfiguró la aplicacion MAIL.
+Solución:	Ajuste de las configuraciones de aplicación MAIL y restauración del algunos mails.

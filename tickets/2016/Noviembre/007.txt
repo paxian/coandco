@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		007
+Fecha;		09/11/2016
+Concepto:	Soporte al área directiva.
+Problema:	Reporte de estatus de paquetes PEC le falta las columnas “Días efectivos” y “Días históricos”.
+Solución:	Se agregó columnas “Días efectivos” y “Días historicos”.

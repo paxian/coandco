@@ -1,0 +1,7 @@
+[Ticket]
+
+Numero:		006
+Fecha;		10/11/2016
+Concepto:	Soporte al área directiva.
+Problema:	Reporte de facturación le falta una columna, fecha de recibo cicsa.
+Solución:	Se agregó columna fecha de recibo cicsa al reporte de facturación.
